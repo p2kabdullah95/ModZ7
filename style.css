@@ -1,0 +1,45 @@
+html{
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  color-scheme: dark;
+}
+
+body{
+  border: solid;
+  border-radius: 50px;
+  border-color: rgb(250, 0, 250);
+  height: 100vh;
+}
+
+.starting{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: rgb(144, 26, 255);
+}
+
+a{
+  display: flex;
+  justify-self: center;
+  align-items: center;
+}
+
+.heading{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: rgb(255, 50, 255);
+}
+
+.commingsoon{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: rgb(255, 194, 38);
+}
+
+.ytchannel{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: rgb(255, 30, 30);
+}
