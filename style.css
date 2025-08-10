@@ -21,6 +21,7 @@ a{
   display: flex;
   justify-self: center;
   align-items: center;
+  padding: 10px;
 }
 
 .heading{
@@ -30,11 +31,11 @@ a{
   color: rgb(255, 50, 255);
 }
 
-.commingsoon{
+.tp{
   display: flex;
   justify-content: center;
   align-items: center;
-  color: rgb(255, 194, 38);
+  color: rgb(106, 0, 255);
 }
 
 .ytchannel{
@@ -42,4 +43,11 @@ a{
   justify-content: center;
   align-items: center;
   color: rgb(255, 30, 30);
+}
+
+.cs{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: greenyellow;
 }
