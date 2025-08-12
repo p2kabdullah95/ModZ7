@@ -51,3 +51,11 @@ a{
   align-items: center;
   color: greenyellow;
 }
+
+.logo{
+  display: flex;
+  margin: 20px;
+  border-radius: 6060px;
+  border: solid;
+  border-color: rgb(255, 24, 255);
+}
