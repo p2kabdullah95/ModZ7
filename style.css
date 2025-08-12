@@ -7,7 +7,6 @@ body{
   border: solid;
   border-radius: 50px;
   border-color: rgb(250, 0, 250);
-  height: 100vh;
 }
 
 .starting{
@@ -58,4 +57,11 @@ a{
   border-radius: 6060px;
   border: solid;
   border-color: rgb(255, 24, 255);
+}
+
+.contacts{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: chartreuse;
 }
