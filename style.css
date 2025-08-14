@@ -65,3 +65,9 @@ a{
   align-items: center;
   color: chartreuse;
 }
+
+.sv{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
