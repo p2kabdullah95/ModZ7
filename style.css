@@ -1,57 +1,58 @@
-html{
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+html {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
   color-scheme: dark;
 }
 
-body{
+body {
   border: solid;
   border-radius: 50px;
   border-color: rgb(250, 0, 250);
 }
 
-.starting{
+.starting {
   display: flex;
   justify-content: center;
   align-items: center;
   color: rgb(144, 26, 255);
 }
 
-a{
+a {
   display: flex;
   justify-self: center;
   align-items: center;
   padding: 10px;
 }
 
-.heading{
+.heading {
   display: flex;
   justify-content: center;
   align-items: center;
   color: rgb(255, 50, 255);
 }
 
-.tp{
+.tp {
   display: flex;
   justify-content: center;
   align-items: center;
   color: rgb(106, 0, 255);
 }
 
-.ytchannel{
+.ytchannel {
   display: flex;
   justify-content: center;
   align-items: center;
   color: rgb(255, 30, 30);
 }
 
-.cs{
+.cs {
   display: flex;
   justify-content: center;
   align-items: center;
   color: greenyellow;
 }
 
-.logo{
+.logo {
   display: flex;
   margin: 20px;
   border-radius: 6060px;
@@ -59,14 +60,14 @@ a{
   border-color: rgb(255, 24, 255);
 }
 
-.contacts{
+.contacts {
   display: flex;
   justify-content: center;
   align-items: center;
   color: chartreuse;
 }
 
-.sv{
+.sv {
   display: flex;
   justify-content: center;
   align-items: center;
